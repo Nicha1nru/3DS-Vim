@@ -6,3 +6,6 @@ It is completely open source.
 ![Image](https://user-images.githubusercontent.com/89216946/193067540-d667a6f4-d586-4305-98e3-65be2a055eb8.jpeg)
 Press B to cycle between letters, press A to type the letter. Ignore the B at the start, it is a bug im trying to fix.
 Press select to reset, press start to exit.
+
+# How to launch it in your 3DS
+You need a jailbroken 3DS with homebrew to launch it. Put the SD card in your computer, put the .3dsx file and the lol.elf file into the 3ds folder in your SD card. Then, put it back in your 3DS and launch the program with homebrew.
