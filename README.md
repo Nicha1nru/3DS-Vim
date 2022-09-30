@@ -5,8 +5,7 @@ It is completely open source. Just keep in mind that its in early development an
 
 
 # How it works
-Press B to cycle between letters, press A to type the letter. Ignore the letter B at the start, it is a bug im trying to fix.
-Press select to reset, press start to exit.
+Use the D Pad to cycle between letters, press A to type them, press B to type a space and press select to rewrite everything.
 
 # How to launch it in your 3DS
 You need a jailbroken 3DS with homebrew to launch it. Put the SD card from your 3DS in your computer, put the .3dsx file and the .smdh file into the 3ds folder in your SD card. Then, put it back in your 3DS and launch the program with homebrew.
