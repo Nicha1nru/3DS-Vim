@@ -12,5 +12,5 @@ You need a jailbroken 3DS with homebrew to launch it. Put the SD card from your 
 # How to edit the source code and compile it
 You have my full permission to edit the source code in any way you see fit, simply edit the main.cpp file in the sourceCode folder. To compile it, install devkitpro (if your on linux, make sure to install 3ds-dev as well). And in the terminal/command prompt, go to the directory the files are stored in (not the sourceCode directory) and type "make". This will compile it.
 
-#Change logs
+# Change logs
 Completely rewrote the program in V2.1, you can download it in the V2.1 branch.
