@@ -1,3 +1,6 @@
+# Latest version
+Download V2.1 in the V2.1 branch.
+
 # 3DS-Vim
 Vim is a pretty amazing text editor for linux/windows, and i'm trying to port my own version of it to the 3DS.
 It is completely open source. Just keep in mind that its in early development and has not been fully completed yet. I'm uploading this to hopefully get some critism!
