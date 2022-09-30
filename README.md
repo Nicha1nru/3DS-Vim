@@ -1,5 +1,5 @@
 # Latest version
-Download V0.1 in the V2.1 branch. It has some major changes, so download that one instead
+Download V1.1 in the V1.1 branch. It has some major changes, so download that one instead
 
 # 3DS-Vim
 Vim is a pretty amazing text editor for linux/windows, and i'm trying to port my own version of it to the 3DS.
