@@ -1,6 +1,3 @@
-# Latest version
-Download V0.1 in the V2.1 branch. It has some major changes, so download that one instead
-
 # 3DS-Vim
 Vim is a pretty amazing text editor for linux/windows, and i'm trying to port my own version of it to the 3DS.
 It is completely open source. Just keep in mind that its in early development and has not been fully completed yet. I'm uploading this to hopefully get some critism!
@@ -14,3 +11,6 @@ You need a jailbroken 3DS with homebrew to launch it. Put the SD card from your 
 
 # How to edit the source code and compile it
 You have my full permission to edit the source code in any way you see fit, simply edit the main.cpp file in the sourceCode folder. To compile it, install devkitpro (if your on linux, make sure to install 3ds-dev as well). And in the terminal/command prompt, go to the directory the files are stored in (not the sourceCode directory) and type "make". This will compile it.
+
+# Change log
+Removed some small bugs
