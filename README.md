@@ -11,7 +11,7 @@ Use the D Pad to cycle between letters, press A to type them, press B to type a 
 You need a jailbroken 3DS with homebrew to launch it. Put the SD card from your 3DS in your computer, put the .3dsx file and the .smdh file into the 3ds folder in your SD card. Then, put it back in your 3DS and launch the program with homebrew.
 
 # How to edit the source code and compile it
-You have my full permission to edit the source code in any way you see fit, simply edit the main.cpp file in the source folder. To compile it, install devkitpro (if your on linux, make sure to install 3ds-dev as well). And in the terminal/command prompt, go to the directory the files are stored in (not the sourceCode directory) and type "make". This will compile it.
+You have my full permission to edit the source code in any way you see fit, simply edit the main.cpp file in the source folder. To compile it, install devkitpro (if your on linux, make sure to install 3ds-dev as well). And in the terminal/command prompt, go to the directory the files are stored in (not the source directory) and type "make". This will compile it.
 
 # Change log
 Removed some small bugs
